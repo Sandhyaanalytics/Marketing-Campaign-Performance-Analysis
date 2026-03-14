@@ -1,9 +1,6 @@
 Marketing Campaign Performance Analysis
 
 
-https://github.com/Sandhyaanalytics/Marketing-Campaign-Performance-Analysis/blob/main/IMG_20260314_143407.png
-
-
 Project Overview:
 
 This project analyzes the performance of digital marketing campaigns using Power BI.
@@ -32,6 +29,13 @@ The dataset contains marketing campaign performance data including:
 - Campaign Channel
 - Region
 - Date
+
+
+
+Dashboard Preview:
+
+
+https://github.com/Sandhyaanalytics/Marketing-Campaign-Performance-Analysis/blob/main/IMG_20260314_143407.png
 
 
 Dashboard overview:
